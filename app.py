@@ -72,7 +72,7 @@ Happy World Book Day 💫
 )
 
 # Load and show the book
-PDF_PATH = "the-girl-on-the-train.pdf"
+PDF_PATH = "the-girl-on-the-train_compressed-compressed.pdf"
 
 try:
     with open(PDF_PATH, "rb") as f:
